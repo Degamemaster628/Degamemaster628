@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Degamemaster628
 - 👀 I’m interested in everything 
 - 🌱 I’m currently learning anything
-- 💞️ I’m looking to collaborate on sonething
+- 💞️ I’m looking to collaborate on something
 - 📫 How to reach me email
 
 <!---
